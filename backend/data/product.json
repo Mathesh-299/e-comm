@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Wireless Headphones",
+        "price": "99.99",
+        "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+        "rating": "4.5",
+        "images": [
+            {
+                "image": "https://example.com/images/headphones1.jpg"
+            },
+            {
+                "image": "https://example.com/images/headphones2.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "Tech Store",
+        "stack": "Available",
+        "noofReviews": "156"
+    },
+    {
+        "name": "Smartphone Case",
+        "price": "15.99",
+        "description": "Durable and stylish case for your smartphone with shockproof technology.",
+        "rating": "4.2",
+        "images": [
+            {
+                "image": "https://example.com/images/case1.jpg"
+            },
+            {
+                "image": "https://example.com/images/case2.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Gadget Hub",
+        "stack": "Available",
+        "noofReviews": "45"
+    },
+    {
+        "name": "Gaming Laptop",
+        "price": "1299.99",
+        "description": "Powerful gaming laptop with the latest graphics card and high-speed performance.",
+        "rating": "4.8",
+        "images": [
+            {
+                "image": "https://example.com/images/laptop1.jpg"
+            },
+            {
+                "image": "https://example.com/images/laptop2.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "GamePro",
+        "stack": "Limited",
+        "noofReviews": "230"
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "price": "49.99",
+        "description": "Portable Bluetooth speaker with excellent sound quality and water resistance.",
+        "rating": "4.6",
+        "images": [
+            {
+                "image": "https://example.com/images/speaker1.jpg"
+            },
+            {
+                "image": "https://example.com/images/speaker2.jpg"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "SoundWave",
+        "stack": "Available",
+        "noofReviews": "320"
+    },
+    {
+        "name": "Fitness Tracker",
+        "price": "79.99",
+        "description": "Track your fitness and health metrics with this waterproof fitness tracker.",
+        "rating": "4.3",
+        "images": [
+            {
+                "image": "https://example.com/images/tracker1.jpg"
+            },
+            {
+                "image": "https://example.com/images/tracker2.jpg"
+            }
+        ],
+        "category": "Wearables",
+        "seller": "HealthFirst",
+        "stack": "Available",
+        "noofReviews": "190"
+    },
+    {
+        "name": "Running Shoes",
+        "price": "89.99",
+        "description": "Lightweight and comfortable running shoes for all terrains.",
+        "rating": "4.7",
+        "images": [
+            {
+                "image": "https://example.com/images/shoes1.jpg"
+            },
+            {
+                "image": "https://example.com/images/shoes2.jpg"
+            }
+        ],
+        "category": "Fashion",
+        "seller": "ActiveGear",
+        "stack": "Available",
+        "noofReviews": "300"
+    },
+    {
+        "name": "Coffee Maker",
+        "price": "149.99",
+        "description": "Automatic coffee maker with a built-in grinder for the perfect brew.",
+        "rating": "4.5",
+        "images": [
+            {
+                "image": "https://example.com/images/coffeemaker1.jpg"
+            },
+            {
+                "image": "https://example.com/images/coffeemaker2.jpg"
+            }
+        ],
+        "category": "Home Appliances",
+        "seller": "HomeTech",
+        "stack": "Limited",
+        "noofReviews": "95"
+    },
+    {
+        "name": "Luxury Watch",
+        "price": "499.99",
+        "description": "Elegant luxury watch with a premium design and water resistance.",
+        "rating": "4.9",
+        "images": [
+            {
+                "image": "https://example.com/images/watch1.jpg"
+            },
+            {
+                "image": "https://example.com/images/watch2.jpg"
+            }
+        ],
+        "category": "Fashion",
+        "seller": "Elite Timepieces",
+        "stack": "Available",
+        "noofReviews": "120"
+    }
+]
